@@ -17,6 +17,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    NSLog(@"this should be posted on to git hub");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
